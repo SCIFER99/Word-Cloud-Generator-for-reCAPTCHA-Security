@@ -11,8 +11,8 @@ Step1: Install these packages before running the script:
        pip3 install display
        pip3 install fileupload
        pip3 install io (Might be installed on your operating system already)
-       pip3 install sys (Might be install on your operating system already)
-       pip3 install os (Might be install on your operating system already)
+       pip3 install sys (Might be installed on your operating system already)
+       pip3 install os (Might be installed on your operating system already)
        
 Step2: That's all folks! 
 
